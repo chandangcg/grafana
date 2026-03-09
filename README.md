@@ -229,9 +229,6 @@ ansible-playbook -i inventory.ini monitoring.yml -K
 ![SSH Error](pic/ssherror.png)
 
 
-## Deploy Custom HTML
-![Deploy HTML](pic/delopoyingcustomhtml.png)
-
 ## Install Nginx
 ![Install Nginx](pic/installinfnignx.png)
 
@@ -279,5 +276,6 @@ Key achievements:
 - Visualization using Grafana
 
 This architecture provides a **scalable, automated, and monitored web infrastructure environment**.
+
 
 
