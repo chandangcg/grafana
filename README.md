@@ -222,9 +222,6 @@ ansible-playbook -i inventory.ini monitoring.yml -K
 ## VirtualBox Instance
 ![VirtualBox Instance](pic/vbinstance.png)
 
-## VM Instances Dashboard
-![VM Dashboard](pic/vminstancedashb.png)
-
 ## Ubuntu Installation
 ![Ubuntu Install](pic/ubantuinstall.png)
 
@@ -284,3 +281,4 @@ Key achievements:
 - Visualization using Grafana
 
 This architecture provides a **scalable, automated, and monitored web infrastructure environment**.
+
