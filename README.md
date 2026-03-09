@@ -228,10 +228,6 @@ ansible-playbook -i inventory.ini monitoring.yml -K
 ## SSH Error
 ![SSH Error](pic/ssherror.png)
 
-
-## Install Nginx
-![Install Nginx](pic/installinfnignx.png)
-
 ## Load Balancer Page
 ![Load Balancer Page](pic/loadbalancerpage.png)
 
@@ -276,6 +272,7 @@ Key achievements:
 - Visualization using Grafana
 
 This architecture provides a **scalable, automated, and monitored web infrastructure environment**.
+
 
 
 
