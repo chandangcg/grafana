@@ -228,8 +228,6 @@ ansible-playbook -i inventory.ini monitoring.yml -K
 ## SSH Error
 ![SSH Error](pic/ssherror.png)
 
-## Ansible Run
-![Ansible Run](pic/ansablerun.png)
 
 ## Deploy Custom HTML
 ![Deploy HTML](pic/delopoyingcustomhtml.png)
@@ -281,4 +279,5 @@ Key achievements:
 - Visualization using Grafana
 
 This architecture provides a **scalable, automated, and monitored web infrastructure environment**.
+
 
